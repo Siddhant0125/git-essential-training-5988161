@@ -6,10 +6,14 @@
 - git commit -m " adds Example.md to demonstrate the git process"
 - git push
 - git remote add origin "remote repo url"
+
+#### Restore and diff Commands
 - git diff
 - git diff --cached
 - git restore --staged .
 - git restore .
+
+#### Log Commands
 - git show
 - git log -p
 - git log --oneline
@@ -17,3 +21,7 @@
 - git checkout 9804adb
 - git checkout main
 - git revert 9804adb
+
+#### Branch Commands
+- git branch logfolder
+- git checkout logfolder
