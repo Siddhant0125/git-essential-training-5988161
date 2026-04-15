@@ -1,13 +1,12 @@
-This is content
+### Quick Commands to learn
 
-git add Example.md : add file to staging
-git add . : add all changed files to staging
-git status : check the status of the staged files
-git commit -m " adds Example.md to demonstrate the git process"
-git push
-git remote add origin "remote repo url"
-git diff
-git diff --cached
-
-This is an extra line
-another small change
+- git add Example.md : add file to staging
+- git add . : add all changed files to staging
+- git status : check the status of the staged files
+- git commit -m " adds Example.md to demonstrate the git process"
+- git push
+- git remote add origin "remote repo url"
+- git diff
+- git diff --cached
+- git restore --staged .
+- git restore .
