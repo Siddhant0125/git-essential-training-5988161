@@ -10,3 +10,7 @@
 - git diff --cached
 - git restore --staged .
 - git restore .
+- git show
+- git log -p
+- git log --oneline
+- git log --grep='Example'
