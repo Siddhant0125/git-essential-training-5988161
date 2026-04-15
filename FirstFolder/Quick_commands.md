@@ -14,3 +14,6 @@
 - git log -p
 - git log --oneline
 - git log --grep='Example'
+- git checkout 9804adb
+- git checkout main
+- git revert 9804adb
